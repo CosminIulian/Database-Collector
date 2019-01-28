@@ -1,5 +1,5 @@
 # DataBaseCollector
-A data base collector created in Java Spring Boot and H2 embedded
+A data base collector created in Java Spring Boot and MySQL database
 
 ## The setup
 ### [Install MySQL Workbench](https://dev.mysql.com/downloads/installer/) & set the user to "root" and the password to "admin
