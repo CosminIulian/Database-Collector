@@ -3,7 +3,7 @@ A data base collector created in Java Spring Boot & MySQL DB
 
 ## The setup
 
-### [Install MySQL Workbench](https://dev.mysql.com/downloads/installer/) & set the **user** to "**root**" and the **password** to "**admin**"
+### [Install MySQL Workbench](https://dev.mysql.com/downloads/installer/) & set the *user* to "*root*" and the *password* to "*admin*"
 
 ### After installation, set up a new connection
 <img src="https://i.imgur.com/N150VIX.png"/>
