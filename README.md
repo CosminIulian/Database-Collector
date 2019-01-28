@@ -1,4 +1,4 @@
-# DataBaseCollector
+# Data Base Collector
 A data base collector created in Java Spring Boot and MySQL database
 
 ## The setup
